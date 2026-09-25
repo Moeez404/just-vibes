@@ -183,7 +183,7 @@ const App = () => {
 
       <footer className="relative z-20 py-8 text-center mt-auto">
          <p className="text-[9px] text-slate-600 uppercase tracking-[0.5em] font-black transition-opacity duration-1000">
-            Made with love by Moeez Ahmed
+            Made with love by Rizq Imtiaz
          </p>
       </footer>
     </div>
